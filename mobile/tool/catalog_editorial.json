@@ -1,0 +1,3530 @@
+[
+  {
+    "id": "c1_1",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_1",
+    "text": "¿Qué mensaje te arrepentiste de enviar de madrugada?"
+  },
+  {
+    "id": "c1_2",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_2",
+    "text": "¿Qué señal de alarma ignoraste por atracción?"
+  },
+  {
+    "id": "c1_3",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "competencia_fingida",
+    "text": "¿Qué has fingido saber para impresionar a una cita?"
+  },
+  {
+    "id": "c1_4",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_4",
+    "text": "¿Qué detalle te hace perder el interés al instante?"
+  },
+  {
+    "id": "c1_5",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_5",
+    "text": "¿Qué secreto tuyo conoce una sola persona?"
+  },
+  {
+    "id": "c1_6",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_6",
+    "text": "¿Cuándo confundiste amabilidad con coqueteo?"
+  },
+  {
+    "id": "c1_7",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_7",
+    "text": "¿Qué excusa usaste para escapar de una cita?"
+  },
+  {
+    "id": "c1_8",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_8",
+    "text": "¿Qué conversación borrarías de tu historial por vergüenza?"
+  },
+  {
+    "id": "c1_9",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_9",
+    "text": "¿Qué límite te costó aprender a poner en una relación?"
+  },
+  {
+    "id": "c1_10",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_10",
+    "text": "¿Qué amistad descuidaste por una pareja?"
+  },
+  {
+    "id": "c1_11",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_11",
+    "text": "¿Qué te daría vergüenza que encontraran en tus búsquedas?"
+  },
+  {
+    "id": "c1_12",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_12",
+    "text": "¿Qué mentira piadosa se te salió de control?"
+  },
+  {
+    "id": "c1_13",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_13",
+    "text": "¿Qué cumplido recuerdas aunque hayan pasado años?"
+  },
+  {
+    "id": "c1_14",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_14",
+    "text": "¿Qué persona presente elegirías como cómplice de una aventura y por qué?"
+  },
+  {
+    "id": "c1_15",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_15",
+    "text": "¿Qué opinión cambias según con quién estés?"
+  },
+  {
+    "id": "c1_16",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_16",
+    "text": "¿Qué gasto ocultaste porque sabías que era absurdo?"
+  },
+  {
+    "id": "c1_17",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_17",
+    "text": "¿Qué celos te cuesta admitir?"
+  },
+  {
+    "id": "c1_18",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_18",
+    "text": "¿Qué error de una relación no quieres repetir?"
+  },
+  {
+    "id": "c1_19",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_19",
+    "text": "¿Qué cita terminó de una forma totalmente inesperada?"
+  },
+  {
+    "id": "c1_20",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_20",
+    "text": "¿Qué rumor sobre ti era cierto?"
+  },
+  {
+    "id": "c1_21",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_21",
+    "text": "¿Qué parte de tu personalidad exageras en redes?"
+  },
+  {
+    "id": "c1_22",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_22",
+    "text": "¿Qué amistad tuvo tensión romántica sin decirlo?"
+  },
+  {
+    "id": "c1_23",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_23",
+    "text": "¿Qué has hecho para llamar la atención de alguien que te gustaba?"
+  },
+  {
+    "id": "c1_24",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_24",
+    "text": "¿Qué disculpa sigues debiendo?"
+  },
+  {
+    "id": "c1_25",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_25",
+    "text": "¿Qué fantasía romántica te parece cursi pero te gustaría vivir?"
+  },
+  {
+    "id": "c1_26",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_26",
+    "text": "¿Qué te cuesta pedir durante la intimidad?"
+  },
+  {
+    "id": "c1_27",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_27",
+    "text": "¿Qué conversación sobre consentimiento te habría gustado tener antes?"
+  },
+  {
+    "id": "c1_28",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_28",
+    "text": "¿Qué situación íntima acabó en risas?"
+  },
+  {
+    "id": "c1_29",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_29",
+    "text": "¿Qué idea equivocada tenías sobre el sexo antes de vivirlo?"
+  },
+  {
+    "id": "c1_30",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_30",
+    "text": "¿Qué diferencia de deseo te ha costado conversar?"
+  },
+  {
+    "id": "c1_31",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_31",
+    "text": "¿Qué gesto te resulta más seductor que una apariencia física?"
+  },
+  {
+    "id": "c1_32",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_32",
+    "text": "¿Qué acuerdo de pareja consideras imprescindible?"
+  },
+  {
+    "id": "c1_33",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_33",
+    "text": "¿Qué experiencia te enseñó a decir que no?"
+  },
+  {
+    "id": "c1_34",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_34",
+    "text": "¿Qué plan rechazaste y después lamentaste?"
+  },
+  {
+    "id": "c1_35",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_35",
+    "text": "¿Qué promesa hiciste sin intención de cumplir?"
+  },
+  {
+    "id": "c1_36",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_36",
+    "text": "¿Qué crítica te dolió porque tenía algo de verdad?"
+  },
+  {
+    "id": "c1_37",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_37",
+    "text": "¿Qué competencia absurda te tomas demasiado en serio?"
+  },
+  {
+    "id": "c1_38",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_38",
+    "text": "¿Qué hiciste para evitar encontrarte con un ex?"
+  },
+  {
+    "id": "c1_39",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_39",
+    "text": "¿Qué hábito ocultas al empezar a conocer a alguien?"
+  },
+  {
+    "id": "c1_40",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c1_40",
+    "text": "¿Qué escena de tu vida no querrías ver proyectada en esta reunión?"
+  },
+  {
+    "id": "c2_1",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "c",
+    "concept": "c2_1",
+    "text": "Quienes hayan tenido un crush secreto por más de un mes toman."
+  },
+  {
+    "id": "c2_2",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "o",
+    "concept": "c2_2",
+    "text": "Elige a quien tendría la cita más desastrosa contigo: esa persona toma."
+  },
+  {
+    "id": "c2_3",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "q",
+    "concept": "c2_3",
+    "text": "Quienes hayan besado a alguien para darle celos a otra persona toman."
+  },
+  {
+    "id": "c2_4",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "u",
+    "concept": "c2_4",
+    "text": "Quienes hayan tenido una cita que terminó mucho mejor de lo esperado toman."
+  },
+  {
+    "id": "c2_5",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "e",
+    "concept": "c2_5",
+    "text": "Quienes hayan revisado el perfil de una expareja después de una noche de fiesta toman."
+  },
+  {
+    "id": "c2_6",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "t",
+    "concept": "c2_6",
+    "text": "Quienes hayan mandado un mensaje sugerente y luego apagado el celular toman."
+  },
+  {
+    "id": "c2_7",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "e",
+    "concept": "c2_7",
+    "text": "El grupo vota quién tiene más labia; quien reciba más votos toma."
+  },
+  {
+    "id": "c2_8",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "o",
+    "concept": "c2_8",
+    "text": "Quienes hayan aceptado una cita sabiendo que no buscaban una relación toman."
+  },
+  {
+    "id": "c2_9",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "_",
+    "concept": "c2_9",
+    "text": "Elige a la persona presente con quien tendrías la cita más divertida: toma contigo."
+  },
+  {
+    "id": "c2_10",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "y",
+    "concept": "c2_10",
+    "text": "Quienes hayan tenido un amor platónico imposible toman."
+  },
+  {
+    "id": "c2_11",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "_",
+    "concept": "c2_11",
+    "text": "Quienes hayan usado una canción para lanzar una indirecta toman."
+  },
+  {
+    "id": "c2_12",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "r",
+    "concept": "c2_12",
+    "text": "Elige a quien crees que guarda el secreto más jugoso de una cita: esa persona toma."
+  },
+  {
+    "id": "c2_13",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "e",
+    "concept": "c2_13",
+    "text": "Quienes hayan besado a alguien sin saber su apellido toman."
+  },
+  {
+    "id": "c2_14",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "u",
+    "concept": "c2_14",
+    "text": "Quienes hayan tenido química inmediata con alguien que acaban de conocer toman."
+  },
+  {
+    "id": "c2_15",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "n",
+    "concept": "c2_15",
+    "text": "Quienes hayan fingido indiferencia para no parecer demasiado interesados toman."
+  },
+  {
+    "id": "c2_16",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "i",
+    "concept": "c2_16",
+    "text": "Quienes hayan vuelto a escribirle a alguien después de jurar que no lo harían toman."
+  },
+  {
+    "id": "c2_17",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "o",
+    "concept": "c2_17",
+    "text": "El jugador activo elige a alguien para un duelo de miradas; quien se ría primero toma."
+  },
+  {
+    "id": "c2_18",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "n",
+    "concept": "c2_18",
+    "text": "Quienes hayan tenido una cita que ocultaron a sus amistades toman."
+  },
+  {
+    "id": "c2_19",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "e",
+    "concept": "c2_19",
+    "text": "Quienes hayan pensado «con esta persona sí tendría algo» al conocerla toman."
+  },
+  {
+    "id": "c2_20",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "s",
+    "concept": "c2_20",
+    "text": "Todos señalan a quien creen que recibe más mensajes de ligue; quien tenga más votos toma."
+  },
+  {
+    "id": "c3_1",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "c",
+    "concept": "c3_1",
+    "text": "Imita cómo ligas cuando te interesa alguien; el grupo adivina si es tu estilo real."
+  },
+  {
+    "id": "c3_2",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "o",
+    "concept": "c3_2",
+    "text": "Cuenta tu peor metedura de pata en una cita como si fuera una escena de telenovela."
+  },
+  {
+    "id": "c3_3",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "c",
+    "concept": "c3_3",
+    "text": "Haz un brindis de conquista para alguien imaginario con quien tendrías una cita."
+  },
+  {
+    "id": "c3_4",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "o",
+    "concept": "c3_4",
+    "text": "Cuenta una cita desastrosa como si fuera una confesión ante el grupo."
+  },
+  {
+    "id": "c3_5",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "q",
+    "concept": "c3_5",
+    "text": "Actúa cómo responderías al encontrar a tu ex en una fiesta con su nueva pareja."
+  },
+  {
+    "id": "c3_6",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "u",
+    "concept": "c3_6",
+    "text": "Defiende durante veinte segundos por qué serías el mejor beso de esta reunión."
+  },
+  {
+    "id": "c3_7",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "coqueteo",
+    "concept": "c3_7",
+    "text": "Imita tres estilos distintos de coqueteo y deja que el grupo elija el más convincente."
+  },
+  {
+    "id": "c3_8",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "e",
+    "concept": "c3_8",
+    "text": "Interpreta una discusión entre tu deseo y tu sentido común sobre un crush."
+  },
+  {
+    "id": "c3_9",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "coqueteo",
+    "concept": "c3_9",
+    "text": "Haz una entrada triunfal a una fiesta con la actitud de quien sabe que alguien vino por ti."
+  },
+  {
+    "id": "c3_10",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "t",
+    "concept": "c3_10",
+    "text": "Describe a tu tipo ideal sin usar apariencia física; el grupo intenta adivinarlo."
+  },
+  {
+    "id": "c3_11",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "atraccion",
+    "concept": "c3_11",
+    "text": "Representa con un gesto tu reacción al notar que alguien atractivo te está mirando."
+  },
+  {
+    "id": "c3_12",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "t",
+    "concept": "c3_12",
+    "text": "Dedica un brindis coqueto a alguien del grupo; esa persona puede aceptarlo o no."
+  },
+  {
+    "id": "c3_13",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "e",
+    "concept": "c3_13",
+    "text": "Con un rival, alternen frases para romper el hielo en una cita; quien repita pierde."
+  },
+  {
+    "id": "c3_14",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "o",
+    "concept": "c3_14",
+    "text": "Con alguien que acepte, improvisen una llamada para acordar una segunda cita."
+  },
+  {
+    "id": "c3_15",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "_",
+    "concept": "c3_15",
+    "text": "Cuenta una confesión romántica como si estuvieras en un reality de citas."
+  },
+  {
+    "id": "c3_16",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "y",
+    "concept": "c3_16",
+    "text": "Actúa como si acabaras de reconocer que tu cita está coqueteando con otra persona."
+  },
+  {
+    "id": "c3_17",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "e",
+    "concept": "c3_17",
+    "text": "Improvisa un piropo ingenioso que no mencione el cuerpo de nadie."
+  },
+  {
+    "id": "c3_18",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "_",
+    "concept": "c3_18",
+    "text": "Haz una rueda de prensa sobre el beso más inesperado de tu vida, sin nombres."
+  },
+  {
+    "id": "c3_19",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "d",
+    "concept": "c3_19",
+    "text": "Inventa un apodo coqueto para alguien ficticio y véndelo como irresistible."
+  },
+  {
+    "id": "c3_20",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "u",
+    "concept": "c3_20",
+    "text": "Representa tres formas de reaccionar al recibir una propuesta atrevida."
+  },
+  {
+    "id": "c3_21",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "e",
+    "concept": "c3_21",
+    "text": "Improvisa un rap de cuatro versos sobre tu peor decisión amorosa."
+  },
+  {
+    "id": "c3_22",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "l",
+    "concept": "c3_22",
+    "text": "Con un rival, alternen red flags que ignoraron por atracción; pierde quien se quede sin ejemplo."
+  },
+  {
+    "id": "c3_23",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "o",
+    "concept": "c3_23",
+    "text": "Convence al grupo de que tu última cita merece una segunda temporada."
+  },
+  {
+    "id": "c3_24",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "s",
+    "concept": "c3_24",
+    "text": "Narra un encuentro romántico como comentarista de una final deportiva."
+  },
+  {
+    "id": "c3_25",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "o",
+    "concept": "c3_25",
+    "text": "Vende tu peor hábito como si fuera irresistible en una primera cita."
+  },
+  {
+    "id": "c3_26",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_duelos",
+    "concept": "c3_26",
+    "text": "Di tres frases que jamás usarías para ligar y actúalas con total seguridad."
+  },
+  {
+    "id": "c3_27",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_duelos",
+    "concept": "c3_27",
+    "text": "Representa cómo pedirías un beso sin presionar y cómo recibirías un no."
+  },
+  {
+    "id": "c3_28",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "_",
+    "concept": "c3_28",
+    "text": "Describe tu beso ideal sin señalar a nadie presente."
+  },
+  {
+    "id": "c3_29",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "y",
+    "concept": "c3_29",
+    "text": "Haz una declaración apasionada a tu crush ficticio como protagonista de novela."
+  },
+  {
+    "id": "c3_30",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_duelos",
+    "concept": "c3_30",
+    "text": "Con otro jugador que acepte, improvisen una escena de reencuentro con tensión romántica."
+  },
+  {
+    "id": "c1_41",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "atraccion",
+    "concept": "c1_41",
+    "text": "¿Qué plan de pareja aceptarías solo por miedo a decepcionar?"
+  },
+  {
+    "id": "c1_42",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "atraccion",
+    "concept": "c1_42",
+    "text": "¿Qué detalle del perfil de una app de citas te hizo deslizar sin pensarlo?"
+  },
+  {
+    "id": "c1_43",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "atraccion",
+    "concept": "c1_43",
+    "text": "¿Qué diferencia de edad te hizo cuestionar una atracción?"
+  },
+  {
+    "id": "c1_44",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "atraccion",
+    "concept": "c1_44",
+    "text": "¿Has mantenido contacto con alguien solo por la posibilidad de que pasara algo?"
+  },
+  {
+    "id": "c1_45",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "atraccion",
+    "concept": "c1_45",
+    "text": "¿Qué te resulta más difícil: iniciar un beso o aclarar qué significa?"
+  },
+  {
+    "id": "c1_46",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "atraccion",
+    "concept": "c1_46",
+    "text": "¿Qué cita te hizo descubrir un prejuicio propio?"
+  },
+  {
+    "id": "c1_47",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "atraccion",
+    "concept": "c1_47",
+    "text": "¿Qué actividad cotidiana te parece inesperadamente atractiva?"
+  },
+  {
+    "id": "c1_48",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "atraccion",
+    "concept": "c1_48",
+    "text": "¿Qué expectativa sobre la exclusividad nunca volverías a dar por supuesta?"
+  },
+  {
+    "id": "c1_49",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "atraccion",
+    "concept": "c1_49",
+    "text": "¿Qué prenda usas cuando quieres sentirte deseable?"
+  },
+  {
+    "id": "c1_50",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "atraccion",
+    "concept": "c1_50",
+    "text": "¿Qué encuentro casual te dejó imaginando una historia que nunca ocurrió?"
+  },
+  {
+    "id": "c1_51",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "atraccion",
+    "concept": "c1_51",
+    "text": "¿Qué indirecta lanzaste tan mal que nadie la entendió?"
+  },
+  {
+    "id": "c1_52",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "atraccion",
+    "concept": "c1_52",
+    "text": "¿Qué aspecto de una persona te atrajo antes de verle la cara?"
+  },
+  {
+    "id": "c1_53",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "atraccion",
+    "concept": "c1_53",
+    "text": "¿Qué le has preguntado a una amistad para averiguar si alguien estaba disponible?"
+  },
+  {
+    "id": "c1_54",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "atraccion",
+    "concept": "c1_54",
+    "text": "¿Qué canción asocias con alguien con quien nunca pasó nada?"
+  },
+  {
+    "id": "c1_55",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "atraccion",
+    "concept": "c1_55",
+    "text": "¿Qué plan aparentemente inocente organizaste para estar a solas con alguien?"
+  },
+  {
+    "id": "c1_56",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "atraccion",
+    "concept": "c1_56",
+    "text": "¿Qué respuesta tardaste horas en redactar para parecer despreocupado?"
+  },
+  {
+    "id": "c1_57",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "atraccion",
+    "concept": "c1_57",
+    "text": "¿Qué rasgo te atrae aunque sabes que complica la convivencia?"
+  },
+  {
+    "id": "c1_58",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "atraccion",
+    "concept": "c1_58",
+    "text": "¿Qué elogio te cuesta aceptar sin pensar que hay otra intención?"
+  },
+  {
+    "id": "c1_59",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "atraccion",
+    "concept": "c1_59",
+    "text": "¿Qué te haría rechazar una segunda cita aunque hubiera química?"
+  },
+  {
+    "id": "c1_60",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "atraccion",
+    "concept": "c1_60",
+    "text": "¿Qué has descubierto de ti al salir con alguien muy distinto?"
+  },
+  {
+    "id": "c1_61",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "relaciones",
+    "concept": "c1_61",
+    "text": "¿Qué acuerdo sobre espacio personal necesitas para convivir?"
+  },
+  {
+    "id": "c1_62",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "relaciones",
+    "concept": "c1_62",
+    "text": "¿Qué discusión de pareja empezó por algo pequeño y reveló algo grande?"
+  },
+  {
+    "id": "c1_63",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "relaciones",
+    "concept": "c1_63",
+    "text": "¿Qué decisión importante cediste para evitar un conflicto?"
+  },
+  {
+    "id": "c1_64",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "relaciones",
+    "concept": "c1_64",
+    "text": "¿Qué costumbre familiar te sorprendió al conocer a una pareja?"
+  },
+  {
+    "id": "c1_65",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "relaciones",
+    "concept": "c1_65",
+    "text": "¿Qué gesto de cuidado valoraste solo después de perderlo?"
+  },
+  {
+    "id": "c1_66",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "relaciones",
+    "concept": "c1_66",
+    "text": "¿Qué tema pospones cuando una relación empieza a ponerse seria?"
+  },
+  {
+    "id": "c1_67",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "relaciones",
+    "concept": "c1_67",
+    "text": "¿Qué mensaje ambiguo preferiste interpretar a tu favor?"
+  },
+  {
+    "id": "c1_68",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "relaciones",
+    "concept": "c1_68",
+    "text": "¿Qué objeto conservas de una relación y qué representa hoy?"
+  },
+  {
+    "id": "c1_69",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "relaciones",
+    "concept": "c1_69",
+    "text": "¿Qué diferencia entre amor y costumbre aprendiste de la forma difícil?"
+  },
+  {
+    "id": "c1_70",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "relaciones",
+    "concept": "c1_70",
+    "text": "¿Qué compromiso romántico te parece sobrevalorado?"
+  },
+  {
+    "id": "c1_71",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "relaciones",
+    "concept": "c1_71",
+    "text": "¿Qué señal te indica que ya puedes mostrar tu lado menos elegante?"
+  },
+  {
+    "id": "c1_72",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "relaciones",
+    "concept": "c1_72",
+    "text": "¿Qué cita ideal tuya no se parece en nada a las de las películas?"
+  },
+  {
+    "id": "c1_73",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "relaciones",
+    "concept": "c1_73",
+    "text": "¿Qué expectativa sobre el dinero te generó un desencuentro sentimental?"
+  },
+  {
+    "id": "c1_74",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "relaciones",
+    "concept": "c1_74",
+    "text": "¿Qué cualidad pedirías a una pareja que tú todavía estás trabajando?"
+  },
+  {
+    "id": "c1_75",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "relaciones",
+    "concept": "c1_75",
+    "text": "¿Qué miedo apareció cuando alguien te trató mejor de lo que esperabas?"
+  },
+  {
+    "id": "c1_76",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "s",
+    "concept": "c1_76",
+    "text": "¿Qué deseo escondiste por miedo a que alguien te juzgara?"
+  },
+  {
+    "id": "c1_77",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "e",
+    "concept": "c1_77",
+    "text": "¿Qué secreto amoroso guardaste incluso después de terminar una relación?"
+  },
+  {
+    "id": "c1_78",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "c",
+    "concept": "c1_78",
+    "text": "¿Qué mentira contaste para parecer más interesante en una cita?"
+  },
+  {
+    "id": "c1_79",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "r",
+    "concept": "c1_79",
+    "text": "¿Qué versión de una ruptura cuentas para quedar mejor?"
+  },
+  {
+    "id": "c1_80",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "e",
+    "concept": "c1_80",
+    "text": "¿Qué fantasía de venganza tuviste después de que te rechazaran?"
+  },
+  {
+    "id": "c1_81",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "t",
+    "concept": "c1_81",
+    "text": "¿A quién buscaste en redes justo después de una ruptura, aunque dijiste que no lo harías?"
+  },
+  {
+    "id": "c1_82",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "o",
+    "concept": "c1_82",
+    "text": "¿Qué regla ajena rompiste cuando nadie podía descubrirte?"
+  },
+  {
+    "id": "c1_83",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "s",
+    "concept": "c1_83",
+    "text": "¿Qué conversación borraste para que tu pareja o un ligue no la viera?"
+  },
+  {
+    "id": "c1_84",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "_",
+    "concept": "c1_84",
+    "text": "¿Qué persona te atraía mientras fingías que te caía mal?"
+  },
+  {
+    "id": "c1_85",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "y",
+    "concept": "c1_85",
+    "text": "¿Qué cumplido inventaste para acercarte a alguien?"
+  },
+  {
+    "id": "c1_86",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "_",
+    "concept": "apariencia_en_citas",
+    "text": "¿Qué secreto de tu vida amorosa te costó contar a tus amistades?"
+  },
+  {
+    "id": "c1_87",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "d",
+    "concept": "c1_87",
+    "text": "¿Qué opinión fingiste compartir para gustarle a una cita?"
+  },
+  {
+    "id": "c1_88",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "e",
+    "concept": "c1_88",
+    "text": "¿Qué parte de una historia romántica tuya siempre omites?"
+  },
+  {
+    "id": "c1_89",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "s",
+    "concept": "c1_89",
+    "text": "¿Qué costumbre de una expareja copiaste después de criticarla?"
+  },
+  {
+    "id": "c1_90",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "e",
+    "concept": "c1_90",
+    "text": "¿Qué contacto mantuviste en secreto porque sabías que levantaría sospechas?"
+  },
+  {
+    "id": "c1_91",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "amistades",
+    "concept": "c1_91",
+    "text": "¿Qué amistad te conoce en una versión que los demás no imaginan?"
+  },
+  {
+    "id": "c1_92",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "amistades",
+    "concept": "c1_92",
+    "text": "¿A qué amigo le dirías una verdad difícil si supieras que no se enfadará?"
+  },
+  {
+    "id": "c1_93",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "amistades",
+    "concept": "c1_93",
+    "text": "¿Qué límite aprendiste a poner con un amigo que pedía demasiado?"
+  },
+  {
+    "id": "c1_94",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "amistades",
+    "concept": "c1_94",
+    "text": "¿Qué amistad nació porque ambos odiaban la misma situación?"
+  },
+  {
+    "id": "c1_95",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "amistades",
+    "concept": "c1_95",
+    "text": "¿Qué invitación de un amigo aceptaste por compromiso y acabaste disfrutando?"
+  },
+  {
+    "id": "c1_96",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "amistades",
+    "concept": "c1_96",
+    "text": "¿Qué rivalidad amistosa se volvió incómoda sin que lo hablaran?"
+  },
+  {
+    "id": "c1_97",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "amistades",
+    "concept": "c1_97",
+    "text": "¿Qué amistad mantienes más por historia compartida que por afinidad actual?"
+  },
+  {
+    "id": "c1_98",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "amistades",
+    "concept": "c1_98",
+    "text": "¿Qué cosa sabes de tus amigos que nunca pondrías en un grupo de chat?"
+  },
+  {
+    "id": "c1_99",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "amistades",
+    "concept": "c1_99",
+    "text": "¿Qué señal te hace notar que un amigo necesita ayuda aunque diga que está bien?"
+  },
+  {
+    "id": "c1_100",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "amistades",
+    "concept": "c1_100",
+    "text": "¿Qué favor te costaría pedir incluso a tu mejor amistad?"
+  },
+  {
+    "id": "c1_101",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "d",
+    "concept": "c1_101",
+    "text": "¿Quién del grupo te ha sorprendido más por lo atractivo que se ve hoy?"
+  },
+  {
+    "id": "c1_102",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "amistades",
+    "concept": "c1_102",
+    "text": "¿Qué persona presente elegirías para que te dijera una crítica honesta?"
+  },
+  {
+    "id": "c1_103",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "amistades",
+    "concept": "c1_103",
+    "text": "¿Qué malentendido en un chat grupal empeoraste al intentar aclararlo?"
+  },
+  {
+    "id": "c1_104",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "amistades",
+    "concept": "c1_104",
+    "text": "¿Qué amistad a distancia cuidas menos de lo que quisieras?"
+  },
+  {
+    "id": "c1_105",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "amistades",
+    "concept": "c1_105",
+    "text": "¿Qué decisión de un amigo apoyaste aunque pensabas que era un error?"
+  },
+  {
+    "id": "c1_106",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "e",
+    "concept": "c1_106",
+    "text": "¿Cuál ha sido tu peor intento de ligar en persona?"
+  },
+  {
+    "id": "c1_107",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "s",
+    "concept": "c1_107",
+    "text": "¿Qué beso te dio más vergüenza recordar al día siguiente?"
+  },
+  {
+    "id": "c1_108",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "e",
+    "concept": "c1_108",
+    "text": "¿Qué secreto sobre una cita salió a la luz en el peor momento?"
+  },
+  {
+    "id": "c1_109",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "o",
+    "concept": "c1_109",
+    "text": "¿A quién le mandaste un mensaje coqueto y luego fingiste que era para otra persona?"
+  },
+  {
+    "id": "c1_110",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "_",
+    "concept": "c1_110",
+    "text": "¿Qué excusa ridícula usaste para quedarte a solas con alguien?"
+  },
+  {
+    "id": "c1_111",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "r",
+    "concept": "c1_111",
+    "text": "¿Qué momento íntimo te hizo reír cuando intentabas parecer sensual?"
+  },
+  {
+    "id": "c1_112",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "e",
+    "concept": "c1_112",
+    "text": "¿Qué persona te gustó aunque sabías que era una pésima idea?"
+  },
+  {
+    "id": "c1_113",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "l",
+    "concept": "c1_113",
+    "text": "¿Qué hiciste para llamar la atención de alguien y te salió al revés?"
+  },
+  {
+    "id": "c1_114",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "a",
+    "concept": "c1_114",
+    "text": "¿Qué rechazo te dolió más de lo que admitiste?"
+  },
+  {
+    "id": "c1_115",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "c",
+    "concept": "c1_115",
+    "text": "¿Qué atracción inesperada te costó reconocer?"
+  },
+  {
+    "id": "c1_116",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "i",
+    "concept": "c1_116",
+    "text": "¿Qué rumor romántico sobre ti te habría dado vergüenza confirmar?"
+  },
+  {
+    "id": "c1_117",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "o",
+    "concept": "c1_117",
+    "text": "¿Qué cita abandonaste mentalmente mucho antes de irte?"
+  },
+  {
+    "id": "c1_118",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "n",
+    "concept": "c1_118",
+    "text": "¿Qué mensaje de madrugada todavía te avergüenza?"
+  },
+  {
+    "id": "c1_119",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "e",
+    "concept": "c1_119",
+    "text": "¿Qué persona presente crees que sería la más difícil de conquistar?"
+  },
+  {
+    "id": "c1_120",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "s",
+    "concept": "c1_120",
+    "text": "¿Qué situación romántica te encontró completamente desprevenido?"
+  },
+  {
+    "id": "c1_121",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "_",
+    "concept": "c1_121",
+    "text": "¿En qué lugar inesperado te han dado ganas de besar a alguien?"
+  },
+  {
+    "id": "c1_122",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "y",
+    "concept": "c1_122",
+    "text": "¿Qué viaje o salida terminó con más tensión romántica de la prevista?"
+  },
+  {
+    "id": "c1_123",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "_",
+    "concept": "c1_123",
+    "text": "¿Qué noche recuerdas por una decisión impulsiva relacionada con un ligue?"
+  },
+  {
+    "id": "c1_124",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "c",
+    "concept": "c1_124",
+    "text": "¿Qué experiencia de una sola noche te dejó pensando más de lo esperado?"
+  },
+  {
+    "id": "c1_125",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "o",
+    "concept": "c1_125",
+    "text": "¿Qué momento de una cita te hizo pensar «esto puede terminar muy bien»?"
+  },
+  {
+    "id": "c1_126",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "n",
+    "concept": "c1_126",
+    "text": "¿Qué aventura romántica te habría gustado repetir?"
+  },
+  {
+    "id": "c1_127",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "f",
+    "concept": "c1_127",
+    "text": "¿Qué decisión amorosa tomaste únicamente por química?"
+  },
+  {
+    "id": "c1_128",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "e",
+    "concept": "c1_128",
+    "text": "¿Qué plan inocente terminó convirtiéndose en una cita?"
+  },
+  {
+    "id": "c1_129",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "s",
+    "concept": "c1_129",
+    "text": "¿Qué despedida de una fiesta te habría gustado que durara más?"
+  },
+  {
+    "id": "c1_130",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "i",
+    "concept": "c1_130",
+    "text": "¿Qué fantasía sexual has tenido con una persona que conoces?"
+  },
+  {
+    "id": "c1_131",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "o",
+    "concept": "c1_131",
+    "text": "¿Qué situación sexual te hizo sentir más deseado?"
+  },
+  {
+    "id": "c1_132",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "n",
+    "concept": "c1_132",
+    "text": "¿Qué deseo sexual te costó mucho admitir por primera vez?"
+  },
+  {
+    "id": "c1_133",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "e",
+    "concept": "c1_133",
+    "text": "¿Qué detalle explícito te excita más de un encuentro sexual?"
+  },
+  {
+    "id": "c1_134",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "s",
+    "concept": "c1_134",
+    "text": "¿Qué experiencia sexual repetirías sin cambiar nada?"
+  },
+  {
+    "id": "c1_135",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "deseo_relaciones_y_confesiones",
+    "concept": "c1_135",
+    "text": "¿Qué práctica sexual probaste y decidiste que no era para ti?"
+  },
+  {
+    "id": "c1_136",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "deseo_relaciones_y_confesiones",
+    "concept": "c1_136",
+    "text": "¿Qué te gusta hacer para excitarte cuando estás a solas?"
+  },
+  {
+    "id": "c1_137",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "deseo_relaciones_y_confesiones",
+    "concept": "c1_137",
+    "text": "¿Con qué frecuencia te masturbas en una semana normal?"
+  },
+  {
+    "id": "c1_138",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "deseo_relaciones_y_confesiones",
+    "concept": "c1_138",
+    "text": "¿Alguna vez fingiste un orgasmo? ¿Por qué?"
+  },
+  {
+    "id": "c1_139",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "deseo_relaciones_y_confesiones",
+    "concept": "c1_139",
+    "text": "¿Cuál ha sido el lugar más arriesgado donde tuviste sexo?"
+  },
+  {
+    "id": "c1_140",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "deseo_relaciones_y_confesiones",
+    "concept": "c1_140",
+    "text": "¿Has tenido sexo anal? ¿Qué te pareció la experiencia?"
+  },
+  {
+    "id": "c1_141",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "s",
+    "concept": "c1_141",
+    "text": "¿Alguna vez has tenido sexo anal? ¿Lo repetirías?"
+  },
+  {
+    "id": "c1_142",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "e",
+    "concept": "c1_142",
+    "text": "¿Con qué frecuencia te masturbas y qué suele excitarte?"
+  },
+  {
+    "id": "c1_143",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "x",
+    "concept": "c1_143",
+    "text": "¿Alguna vez fingiste un orgasmo para terminar un encuentro?"
+  },
+  {
+    "id": "c1_144",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "o",
+    "concept": "c1_144",
+    "text": "¿Cuál ha sido tu experiencia sexual más satisfactoria?"
+  },
+  {
+    "id": "c1_145",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "_",
+    "concept": "c1_145",
+    "text": "¿Has tenido sexo en un lugar público o donde podían descubrirte?"
+  },
+  {
+    "id": "c1_146",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "e",
+    "concept": "c1_146",
+    "text": "¿Qué fantasía sexual nunca le has contado a nadie?"
+  },
+  {
+    "id": "c1_147",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "x",
+    "concept": "c1_147",
+    "text": "¿Has tenido sexo con alguien de este grupo?"
+  },
+  {
+    "id": "c1_148",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "p",
+    "concept": "c1_148",
+    "text": "¿Qué práctica sexual te da curiosidad probar y todavía no has probado?"
+  },
+  {
+    "id": "c1_149",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "l",
+    "concept": "c1_149",
+    "text": "¿Qué es lo más atrevido que has hecho para llegar a tener sexo con alguien?"
+  },
+  {
+    "id": "c1_150",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "i",
+    "concept": "c1_150",
+    "text": "¿Qué detalle de tu vida sexual te sorprendería que el grupo supiera?"
+  },
+  {
+    "id": "c2_21",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "h",
+    "concept": "c2_21",
+    "text": "Quienes hayan besado a alguien de esta reunión toman."
+  },
+  {
+    "id": "c2_22",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "i",
+    "concept": "c2_22",
+    "text": "Quienes hayan tenido una cita que acabó en beso inesperado toman."
+  },
+  {
+    "id": "c2_23",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "s",
+    "concept": "c2_23",
+    "text": "Quienes hayan stalkeado a un ex esta semana toman."
+  },
+  {
+    "id": "c2_24",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "t",
+    "concept": "c2_24",
+    "text": "Quienes hayan enviado un mensaje coqueto y luego se arrepintieron toman."
+  },
+  {
+    "id": "c2_25",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "o",
+    "concept": "c2_25",
+    "text": "Quienes hayan besado a más de una persona en una misma noche toman."
+  },
+  {
+    "id": "c2_26",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "r",
+    "concept": "c2_26",
+    "text": "Quienes hayan vuelto con una expareja toman."
+  },
+  {
+    "id": "c2_27",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "i",
+    "concept": "c2_27",
+    "text": "Quienes hayan tenido una cita solo por la posibilidad de ligar toman."
+  },
+  {
+    "id": "c2_28",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "a",
+    "concept": "c2_28",
+    "text": "Quienes hayan ocultado a sus amistades que alguien les gustaba toman."
+  },
+  {
+    "id": "c2_29",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "s",
+    "concept": "c2_29",
+    "text": "Quienes hayan tenido un crush con alguien que no les convenía toman."
+  },
+  {
+    "id": "c2_30",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "_",
+    "concept": "c2_30",
+    "text": "Quienes hayan recibido una propuesta atrevida por mensaje toman."
+  },
+  {
+    "id": "c2_31",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "d",
+    "concept": "c2_31",
+    "text": "Quienes hayan fingido no sentir celos toman."
+  },
+  {
+    "id": "c2_32",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "e",
+    "concept": "c2_32",
+    "text": "Quienes hayan tenido una cita a ciegas toman."
+  },
+  {
+    "id": "c2_33",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "_",
+    "concept": "c2_33",
+    "text": "Quienes hayan besado a alguien y después se arrepintieron toman."
+  },
+  {
+    "id": "c2_34",
+    "category": 2,
+    "intensity": 1,
+    "status": "active",
+    "theme": "f",
+    "concept": "c2_34",
+    "text": "Quienes hayan tenido una aventura de una sola noche toman."
+  },
+  {
+    "id": "c2_35",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "i",
+    "concept": "c2_35",
+    "text": "Quienes hayan coqueteado para conseguir una cita toman."
+  },
+  {
+    "id": "c2_36",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "e",
+    "concept": "c2_36",
+    "text": "Quienes hayan sentido atracción por la pareja de una amistad toman."
+  },
+  {
+    "id": "c2_37",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "s",
+    "concept": "c2_37",
+    "text": "Quienes hayan tenido una relación secreta toman."
+  },
+  {
+    "id": "c2_38",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "t",
+    "concept": "c2_38",
+    "text": "Quienes hayan mandado una foto sugerente toman."
+  },
+  {
+    "id": "c2_39",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "a",
+    "concept": "c2_39",
+    "text": "Quienes hayan recibido una foto sugerente toman."
+  },
+  {
+    "id": "c2_40",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "historias_de_fiesta",
+    "concept": "c2_40",
+    "text": "Quienes hayan fingido estar ocupados para evitar una cita toman."
+  },
+  {
+    "id": "c2_41",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "relaciones",
+    "concept": "c2_41",
+    "text": "Quienes hayan terminado una relación porque querían acuerdos distintos sobre la exclusividad toman."
+  },
+  {
+    "id": "c2_42",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "historias_de_fiesta",
+    "concept": "c2_42",
+    "text": "Quienes hayan tenido sexo en una primera cita toman."
+  },
+  {
+    "id": "c2_43",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "historias_de_fiesta",
+    "concept": "c2_43",
+    "text": "Quienes hayan despertado junto a alguien cuyo apellido no sabían toman."
+  },
+  {
+    "id": "c2_44",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "historias_de_fiesta",
+    "concept": "c2_44",
+    "text": "Quienes hayan inventado una excusa para irse de una cita toman."
+  },
+  {
+    "id": "c2_45",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "historias_de_fiesta",
+    "concept": "c2_45",
+    "text": "Quienes hayan tenido una relación con alguien del trabajo toman."
+  },
+  {
+    "id": "c2_46",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "historias_de_fiesta",
+    "concept": "c2_46",
+    "text": "Quienes hayan borrado una conversación para evitar preguntas toman."
+  },
+  {
+    "id": "c2_47",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "historias_de_fiesta",
+    "concept": "c2_47",
+    "text": "Quienes hayan hecho match con alguien presente toman."
+  },
+  {
+    "id": "c2_48",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "historias_de_fiesta",
+    "concept": "c2_48",
+    "text": "Quienes hayan tenido una cita con alguien que conocieron esa misma noche toman."
+  },
+  {
+    "id": "c2_49",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "historias_de_fiesta",
+    "concept": "c2_49",
+    "text": "Quienes hayan mentido sobre cuántas parejas han tenido toman."
+  },
+  {
+    "id": "c2_50",
+    "category": 2,
+    "intensity": 2,
+    "status": "active",
+    "theme": "historias_de_fiesta",
+    "concept": "c2_50",
+    "text": "Quienes hayan sentido química con alguien apenas lo conocieron toman."
+  },
+  {
+    "id": "c2_51",
+    "category": 2,
+    "intensity": 3,
+    "status": "active",
+    "theme": "historias_de_fiesta",
+    "concept": "c2_51",
+    "text": "Quienes hayan compartido una fantasía sexual con una pareja toman."
+  },
+  {
+    "id": "c2_52",
+    "category": 2,
+    "intensity": 3,
+    "status": "active",
+    "theme": "historias_de_fiesta",
+    "concept": "c2_52",
+    "text": "Quienes hayan comprado lencería o ropa íntima para una cita toman."
+  },
+  {
+    "id": "c2_53",
+    "category": 2,
+    "intensity": 3,
+    "status": "active",
+    "theme": "historias_de_fiesta",
+    "concept": "c2_53",
+    "text": "Quienes hayan fingido un orgasmo toman."
+  },
+  {
+    "id": "c2_54",
+    "category": 2,
+    "intensity": 3,
+    "status": "active",
+    "theme": "historias_de_fiesta",
+    "concept": "c2_54",
+    "text": "Quienes hayan probado un juguete sexual toman."
+  },
+  {
+    "id": "c2_55",
+    "category": 2,
+    "intensity": 3,
+    "status": "active",
+    "theme": "historias_de_fiesta",
+    "concept": "c2_55",
+    "text": "Quienes hayan tenido sexo en un lugar poco privado toman."
+  },
+  {
+    "id": "c2_56",
+    "category": 2,
+    "intensity": 3,
+    "status": "active",
+    "theme": "historias_de_fiesta",
+    "concept": "c2_56",
+    "text": "Quienes hayan enviado un mensaje sexual explícito toman."
+  },
+  {
+    "id": "c2_57",
+    "category": 2,
+    "intensity": 3,
+    "status": "active",
+    "theme": "historias_de_fiesta",
+    "concept": "c2_57",
+    "text": "Quienes hayan tenido una aventura con alguien comprometido toman."
+  },
+  {
+    "id": "c2_58",
+    "category": 2,
+    "intensity": 3,
+    "status": "active",
+    "theme": "historias_de_fiesta",
+    "concept": "c2_58",
+    "text": "Quienes hayan tenido sexo con una amistad toman."
+  },
+  {
+    "id": "c2_59",
+    "category": 2,
+    "intensity": 3,
+    "status": "active",
+    "theme": "historias_de_fiesta",
+    "concept": "c2_59",
+    "text": "Quienes hayan hablado de una fantasía sexual en grupo toman."
+  },
+  {
+    "id": "c2_60",
+    "category": 2,
+    "intensity": 3,
+    "status": "active",
+    "theme": "historias_de_fiesta",
+    "concept": "c2_60",
+    "text": "Quienes hayan tenido sexo con alguien de esta reunión toman."
+  },
+  {
+    "id": "c3_31",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "_",
+    "concept": "c3_31",
+    "text": "Imita tu reacción cuando te escribe alguien que te encanta."
+  },
+  {
+    "id": "c3_32",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "a",
+    "concept": "c3_32",
+    "text": "Recrea cómo finges tranquilidad cuando alguien atractivo se sienta a tu lado."
+  },
+  {
+    "id": "c3_33",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "c",
+    "concept": "c3_33",
+    "text": "Cuenta una anécdota de ligue usando voz de documental dramático."
+  },
+  {
+    "id": "c3_34",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "t",
+    "concept": "c3_34",
+    "text": "Dale un pico en la mejilla a alguien que tú elijas, solo si acepta. Si no quiere, respeta su respuesta y cambia a una pose de beso de película."
+  },
+  {
+    "id": "c3_35",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "u",
+    "concept": "c3_35",
+    "text": "Improvisa una escena de cita en la que intentas disimular que estás nervioso."
+  },
+  {
+    "id": "c3_36",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "a",
+    "concept": "c3_36",
+    "text": "Traduce tres frases típicas de una cita a lo que realmente significan."
+  },
+  {
+    "id": "c3_37",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "c",
+    "concept": "c3_37",
+    "text": "Inventa una disculpa encantadora para llegar tarde a una cita."
+  },
+  {
+    "id": "c3_38",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "i",
+    "concept": "c3_38",
+    "text": "Con alguien que acepte, improvisen un encuentro coqueto en una fiesta."
+  },
+  {
+    "id": "c3_39",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "o",
+    "concept": "c3_39",
+    "text": "Presenta a la persona de tu derecha como el soltero más codiciado de una gala."
+  },
+  {
+    "id": "c3_40",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "n",
+    "concept": "c3_40",
+    "text": "Recita una receta de cóctel como si fuera una declaración de deseo."
+  },
+  {
+    "id": "c3_41",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_41",
+    "text": "Con un rival, alternen formas de iniciar una conversación de ligue; pierde quien repita."
+  },
+  {
+    "id": "c3_42",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_42",
+    "text": "Haz una confesión romántica ficticia con total seriedad durante veinte segundos."
+  },
+  {
+    "id": "c3_43",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_43",
+    "text": "Invita a alguien que te atraiga a sentarte en sus piernas por diez segundos; solo si acepta con claridad. Si dice que no, respétalo y haz una pose de conquista en solitario."
+  },
+  {
+    "id": "c3_44",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_44",
+    "text": "Interpreta una primera cita en la que ambos intentan parecer menos nerviosos."
+  },
+  {
+    "id": "c3_45",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_45",
+    "text": "Describe qué te hace sentir atractivo con una pose y una frase."
+  },
+  {
+    "id": "c3_46",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "confesiones",
+    "concept": "c3_46",
+    "text": "Improvisa una confesión ficticia como si revelaras una verdad incómoda en un reality."
+  },
+  {
+    "id": "c3_47",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_47",
+    "text": "Haz una pose de portada de novela romántica y deja que el grupo invente el título."
+  },
+  {
+    "id": "c3_48",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_duelos",
+    "concept": "c3_48",
+    "text": "Duelo de piedra, papel o tijera: quien pierda hace una declaración coqueta al aire."
+  },
+  {
+    "id": "c3_49",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_49",
+    "text": "Di cinco cumplidos ingeniosos que no se repitan ni sean sobre el cuerpo."
+  },
+  {
+    "id": "c3_50",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "deseo",
+    "concept": "c3_50",
+    "text": "Actúa cómo reaccionarías si alguien te propusiera un beso de forma inesperada."
+  },
+  {
+    "id": "c3_51",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_51",
+    "text": "Improvisa un audio coqueto de diez segundos para una pareja imaginaria."
+  },
+  {
+    "id": "c3_52",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_52",
+    "text": "Invita a quien tú quieras a un beso en los labios; solo si ambos quieren. Si no acepta, respeta el no y dramatiza un beso de telenovela al aire."
+  },
+  {
+    "id": "c3_53",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_53",
+    "text": "Dedica un premio imaginario a quien tenga el mejor estilo para una cita."
+  },
+  {
+    "id": "c3_54",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_54",
+    "text": "Cuenta una historia de ligue propia en treinta segundos, sin nombres."
+  },
+  {
+    "id": "c3_55",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_55",
+    "text": "Describe cómo invitarías a alguien a pasar la noche sin crear presión."
+  },
+  {
+    "id": "c3_56",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_56",
+    "text": "Di una cualidad tuya que te hace buena compañía en una cita."
+  },
+  {
+    "id": "c3_57",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_57",
+    "text": "Haz una mini clase sobre cómo reconocer una indirecta que te lanzaron."
+  },
+  {
+    "id": "c3_58",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_58",
+    "text": "Defiende durante veinte segundos que eres una excelente primera cita."
+  },
+  {
+    "id": "c3_59",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_59",
+    "text": "Haz una llamada ficticia para invitar a alguien a una cita atrevida."
+  },
+  {
+    "id": "c3_60",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_60",
+    "text": "Representa una conversación posterior a un beso inesperado."
+  },
+  {
+    "id": "c3_61",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_61",
+    "text": "Improvisa una reseña de tu estilo de coqueteo como si fueras crítico."
+  },
+  {
+    "id": "c3_62",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_62",
+    "text": "Propón una regla divertida para una primera cita y actúa cómo la explicarías."
+  },
+  {
+    "id": "c3_63",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_63",
+    "text": "Con otra persona que quiera participar, inventen un saludo secreto coqueto."
+  },
+  {
+    "id": "c3_64",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_64",
+    "text": "Representa tres maneras de reaccionar cuando alguien te dice que le gustas."
+  },
+  {
+    "id": "c3_65",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_65",
+    "text": "Haz un sonido y una pose que describan tu personalidad al ligar."
+  },
+  {
+    "id": "c3_66",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_66",
+    "text": "Cuenta qué harías en una cita perfecta, en modo tráiler de película."
+  },
+  {
+    "id": "c3_67",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_67",
+    "text": "Presenta una fantasía romántica ficticia como si fuera una obra de teatro."
+  },
+  {
+    "id": "c3_68",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_68",
+    "text": "Improvisa un diálogo entre tu yo atrevido y tu yo tímido antes de un beso."
+  },
+  {
+    "id": "c3_69",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_69",
+    "text": "Con un rival, alternen preguntas ingeniosas para conocer a una cita; pierde quien repita."
+  },
+  {
+    "id": "c3_70",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_70",
+    "text": "Con un rival, alternen planes originales para una cita; el grupo decide quién convence más."
+  },
+  {
+    "id": "c3_71",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_71",
+    "text": "Cuenta una historia de coqueteo sin usar la palabra «gustar»."
+  },
+  {
+    "id": "c3_72",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_72",
+    "text": "Interpreta cómo anunciarías que una cita tuvo química, sin decir nombres."
+  },
+  {
+    "id": "c3_73",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_73",
+    "text": "Describe una cita inolvidable usando solo tres frases."
+  },
+  {
+    "id": "c3_74",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_74",
+    "text": "Haz una declaración sensual a una pareja imaginaria, sin contacto físico."
+  },
+  {
+    "id": "c3_75",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_75",
+    "text": "Improvisa una invitación a bailar y acepta cualquier respuesta con buena actitud."
+  },
+  {
+    "id": "c3_76",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_76",
+    "text": "Con alguien que acepte, actúen una escena de tensión romántica sin tocarse."
+  },
+  {
+    "id": "c3_77",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_actuacion",
+    "concept": "c3_77",
+    "text": "Cuenta cuál sería el título de tu autobiografía amorosa y véndelo al grupo."
+  },
+  {
+    "id": "c3_78",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "azar",
+    "concept": "c3_78",
+    "text": "Carta alta",
+    "kind": "cards"
+  },
+  {
+    "id": "c3_79",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "azar",
+    "concept": "c3_79",
+    "text": "Todito",
+    "kind": "todito"
+  },
+  {
+    "id": "c3_80",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "azar",
+    "concept": "c3_80",
+    "text": "Par o impar",
+    "kind": "parity"
+  },
+  {
+    "id": "c4_1",
+    "category": 4,
+    "intensity": 1,
+    "status": "active",
+    "theme": "minijuego",
+    "concept": "c4_1",
+    "text": "Yo Nunca Nunca",
+    "kind": "never"
+  },
+  {
+    "id": "c4_2",
+    "category": 4,
+    "intensity": 1,
+    "status": "active",
+    "theme": "minijuego",
+    "concept": "c4_2",
+    "text": "Un limón, medio limón",
+    "kind": "lemon"
+  },
+  {
+    "id": "c4_3",
+    "category": 4,
+    "intensity": 1,
+    "status": "active",
+    "theme": "minijuego",
+    "concept": "c4_3",
+    "text": "El pato",
+    "kind": "duck"
+  },
+  {
+    "id": "c4_4",
+    "category": 4,
+    "intensity": 1,
+    "status": "active",
+    "theme": "minijuego",
+    "concept": "c4_4",
+    "text": "Cultura chupística",
+    "kind": "culture"
+  },
+  {
+    "id": "c4_5",
+    "category": 4,
+    "intensity": 1,
+    "status": "active",
+    "theme": "minijuego",
+    "concept": "c4_5",
+    "text": "Cuenta con reemplazo",
+    "kind": "replace"
+  },
+  {
+    "id": "c4_6",
+    "category": 4,
+    "intensity": 1,
+    "status": "active",
+    "theme": "minijuego",
+    "concept": "c4_6",
+    "text": "Oración",
+    "kind": "sentence"
+  },
+  {
+    "id": "c4_7",
+    "category": 4,
+    "intensity": 1,
+    "status": "active",
+    "theme": "minijuego",
+    "concept": "c4_7",
+    "text": "La bomba",
+    "kind": "bomb"
+  },
+  {
+    "id": "c4_8",
+    "category": 4,
+    "intensity": 1,
+    "status": "active",
+    "theme": "minijuego",
+    "concept": "c4_8",
+    "text": "Presidente",
+    "kind": "president"
+  },
+  {
+    "id": "c4_9",
+    "category": 4,
+    "intensity": 1,
+    "status": "active",
+    "theme": "minijuego",
+    "concept": "c4_9",
+    "text": "Palabra prohibida",
+    "kind": "forbidden"
+  },
+  {
+    "id": "c4_10",
+    "category": 4,
+    "intensity": 1,
+    "status": "active",
+    "theme": "minijuego",
+    "concept": "c4_10",
+    "text": "21",
+    "kind": "21"
+  },
+  {
+    "id": "c5_1",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_1",
+    "text": "Atajo: avanza entre 1 y 6 casillas.",
+    "effect": "advance",
+    "amount": 0
+  },
+  {
+    "id": "c5_2",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_2",
+    "text": "Impulso: avanza entre 1 y 6 casillas.",
+    "effect": "advance",
+    "amount": 0
+  },
+  {
+    "id": "c5_3",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_3",
+    "text": "Salto de rana: avanza entre 1 y 6 casillas.",
+    "effect": "advance",
+    "amount": 0
+  },
+  {
+    "id": "c5_4",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_4",
+    "text": "Resbalón: retrocede entre 1 y 6 casillas.",
+    "effect": "back",
+    "amount": 0
+  },
+  {
+    "id": "c5_5",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_5",
+    "text": "Paso en falso: retrocede entre 1 y 6 casillas.",
+    "effect": "back",
+    "amount": 0
+  },
+  {
+    "id": "c5_6",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_6",
+    "text": "Desvío: retrocede entre 1 y 6 casillas.",
+    "effect": "back",
+    "amount": 0
+  },
+  {
+    "id": "c5_7",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_7",
+    "text": "Espejo: intercambia posición con el siguiente jugador.",
+    "effect": "swap",
+    "amount": 0
+  },
+  {
+    "id": "c5_8",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_8",
+    "text": "Relevo: intercambia posición con el jugador anterior.",
+    "effect": "swapPrevious",
+    "amount": 0
+  },
+  {
+    "id": "c5_9",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_9",
+    "text": "Cambio de líder: intercambia posición con quien esté más adelante.",
+    "effect": "swapLeader",
+    "amount": 0
+  },
+  {
+    "id": "c5_10",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_10",
+    "text": "Rescate: intercambia posición con quien esté más atrás.",
+    "effect": "swapLast",
+    "amount": 0
+  },
+  {
+    "id": "c5_11",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_11",
+    "text": "Pausa: pierde tu próximo turno.",
+    "effect": "skip",
+    "amount": 1
+  },
+  {
+    "id": "c5_12",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_12",
+    "text": "Segunda oportunidad: gana un lanzamiento adicional.",
+    "effect": "extra",
+    "amount": 1
+  },
+  {
+    "id": "c5_13",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_13",
+    "text": "Paraguas: bloquea el próximo evento negativo.",
+    "effect": "shield",
+    "amount": 1
+  },
+  {
+    "id": "c5_14",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_14",
+    "text": "Durante una ronda no se pueden usar nombres propios.",
+    "effect": "rule",
+    "amount": 1
+  },
+  {
+    "id": "c5_15",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_15",
+    "text": "Durante dos rondas todos hablan en plural.",
+    "effect": "rule",
+    "amount": 2
+  },
+  {
+    "id": "c5_16",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_16",
+    "text": "Durante una ronda cada respuesta empieza con permiso.",
+    "effect": "rule",
+    "amount": 1
+  },
+  {
+    "id": "c5_17",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_17",
+    "text": "Durante tres rondas no se puede decir sí.",
+    "effect": "rule",
+    "amount": 3
+  },
+  {
+    "id": "c5_18",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_18",
+    "text": "Durante dos rondas se saluda al pasar el celular.",
+    "effect": "rule",
+    "amount": 2
+  },
+  {
+    "id": "c5_19",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_19",
+    "text": "Durante una ronda se habla como narrador deportivo.",
+    "effect": "rule",
+    "amount": 1
+  },
+  {
+    "id": "c5_20",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_20",
+    "text": "Durante dos rondas no se puede señalar con el dedo.",
+    "effect": "rule",
+    "amount": 2
+  },
+  {
+    "id": "c5_21",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_21",
+    "text": "Viento a favor: tú avanzas entre 1 y 6 casillas.",
+    "effect": "advance",
+    "amount": 0
+  },
+  {
+    "id": "c5_22",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_22",
+    "text": "Marea baja: tú retrocedes entre 1 y 6 casillas.",
+    "effect": "back",
+    "amount": 0
+  },
+  {
+    "id": "c5_23",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_23",
+    "text": "Regalo: el siguiente jugador gana un escudo.",
+    "effect": "giftShield",
+    "amount": 1
+  },
+  {
+    "id": "c5_24",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_24",
+    "text": "Amnistía: todos recuperan sus turnos perdidos.",
+    "effect": "clearSkip",
+    "amount": 0
+  },
+  {
+    "id": "c5_25",
+    "category": 5,
+    "intensity": 1,
+    "status": "active",
+    "theme": "tablero",
+    "concept": "c5_25",
+    "text": "Borrón: se eliminan todas las reglas temporales.",
+    "effect": "clearRules",
+    "amount": 0
+  },
+  {
+    "id": "c7_1",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_1",
+    "text": "¿Qué te atrae más al besar: la iniciativa, la calma o la complicidad?"
+  },
+  {
+    "id": "c7_2",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_2",
+    "text": "¿Te resulta más sexy que alguien sea directo o que te deje interpretar las señales?"
+  },
+  {
+    "id": "c7_3",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_3",
+    "text": "¿Qué parte de una primera noche juntos te pone más nervioso?"
+  },
+  {
+    "id": "c7_4",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_4",
+    "text": "¿Qué tipo de ropa te hace sentir más atractivo en una cita íntima?"
+  },
+  {
+    "id": "c7_5",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_5",
+    "text": "¿Prefieres que un encuentro íntimo sea espontáneo o que ambos lo planeen?"
+  },
+  {
+    "id": "c7_6",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_6",
+    "text": "¿Qué gesto te hace pasar de «me cae bien» a «me atrae»?"
+  },
+  {
+    "id": "c7_7",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_7",
+    "text": "¿Qué ambiente elegirías para una noche de intimidad: música, silencio o risas?"
+  },
+  {
+    "id": "c7_8",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_8",
+    "text": "¿Qué palabra usarías para describir tu estilo al coquetear cuando sí hay deseo?"
+  },
+  {
+    "id": "c7_9",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_9",
+    "text": "¿Qué te resulta más seductor: una voz, una mirada o una forma de moverse?"
+  },
+  {
+    "id": "c7_10",
+    "category": 1,
+    "intensity": 1,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_10",
+    "text": "¿Qué comentario sobre tu atractivo te dejó pensando todo el día?"
+  },
+  {
+    "id": "c7_11",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_11",
+    "text": "¿Alguna vez un beso cambió por completo la opinión que tenías de alguien?"
+  },
+  {
+    "id": "c7_12",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_12",
+    "text": "¿Qué malentendido sobre una invitación a pasar la noche te ha ocurrido?"
+  },
+  {
+    "id": "c7_13",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_13",
+    "text": "¿Has descubierto que alguien te atraía después de soñar con esa persona?"
+  },
+  {
+    "id": "c7_14",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_14",
+    "text": "¿Qué tan importante es para ti que una pareja tenga una iniciativa sexual parecida a la tuya?"
+  },
+  {
+    "id": "c7_15",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_15",
+    "text": "¿Has tenido que pedir más privacidad porque un encuentro íntimo podía ser interrumpido?"
+  },
+  {
+    "id": "c7_16",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_16",
+    "text": "¿Qué mensaje de coqueteo te ha resultado atrevido sin dejar de ser elegante?"
+  },
+  {
+    "id": "c7_17",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_17",
+    "text": "¿Has hablado de exclusividad después de tener intimidad y deseado haberlo hecho antes?"
+  },
+  {
+    "id": "c7_18",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_18",
+    "text": "¿Qué te hace sentir deseado fuera de los momentos de sexo?"
+  },
+  {
+    "id": "c7_19",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_19",
+    "text": "¿Hay alguna película que haya despertado una curiosidad sexual que luego quisiste conversar?"
+  },
+  {
+    "id": "c7_20",
+    "category": 1,
+    "intensity": 2,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_20",
+    "text": "¿Te resulta fácil decir que tienes ganas de intimidad sin esperar a que la otra persona lo adivine?"
+  },
+  {
+    "id": "c7_21",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_21",
+    "text": "¿Cómo te sentirías proponiendo un juego de roles a una pareja adulta?"
+  },
+  {
+    "id": "c7_22",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_22",
+    "text": "¿Qué curiosidad sobre juguetes sexuales te animarías a comentar con alguien de confianza?"
+  },
+  {
+    "id": "c7_23",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_23",
+    "text": "¿Prefieres conversar sobre fantasías por mensaje o frente a frente?"
+  },
+  {
+    "id": "c7_24",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_24",
+    "text": "¿Qué diferencia hay entre lo que fantaseas y lo que de verdad querrías vivir?"
+  },
+  {
+    "id": "c7_25",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_25",
+    "text": "¿Te interesaría que una pareja propusiera una noche íntima con una sorpresa acordada previamente?"
+  },
+  {
+    "id": "c7_26",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_26",
+    "text": "¿Qué te resultaría más incómodo: comprar un juguete sexual o hablar de él con tu pareja?"
+  },
+  {
+    "id": "c7_27",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_27",
+    "text": "¿Qué te ayuda a recuperar la complicidad cuando una noche de sexo no sale como esperaban?"
+  },
+  {
+    "id": "c7_28",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_28",
+    "text": "¿Qué idea sobre la frecuencia del sexo dejaste de creer con la experiencia?"
+  },
+  {
+    "id": "c7_29",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_29",
+    "text": "¿Cómo plantearías que quieres explorar algo nuevo sin hacer sentir insuficiente a tu pareja?"
+  },
+  {
+    "id": "c7_30",
+    "category": 1,
+    "intensity": 3,
+    "status": "active",
+    "theme": "deseo_y_sexualidad",
+    "concept": "verdad_c7_30",
+    "text": "¿Qué preferirías saber antes de una primera experiencia sexual con alguien: sus límites, sus expectativas o cómo prefiere comunicar lo que le gusta?"
+  },
+  {
+    "id": "c7_31",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "coqueteo_y_deseo",
+    "concept": "reto_c7_31",
+    "text": "Improvisa una invitación a una cita que deje clara tu atracción sin prometer nada que no quieras."
+  },
+  {
+    "id": "c7_32",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "coqueteo_y_deseo",
+    "concept": "reto_c7_32",
+    "text": "Elige una canción para una noche íntima y explica qué ambiente pondría."
+  },
+  {
+    "id": "c7_33",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "coqueteo_y_deseo",
+    "concept": "reto_c7_33",
+    "text": "Actúa durante diez segundos como el protagonista de un anuncio de lencería, sin quitarte ropa."
+  },
+  {
+    "id": "c7_34",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "besos_y_atraccion",
+    "concept": "reto_c7_34",
+    "text": "¿Qué hace que un beso te deje con ganas de repetirlo?"
+  },
+  {
+    "id": "c7_35",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "coqueteo_y_deseo",
+    "concept": "reto_c7_35",
+    "text": "Inventa un apodo coqueto que te gustaría que usara una pareja contigo."
+  },
+  {
+    "id": "c7_36",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "coqueteo_y_deseo",
+    "concept": "reto_c7_36",
+    "text": "Di una frase con la que propondrías un beso y otra con la que aceptarías un «no» sin insistir."
+  },
+  {
+    "id": "c7_37",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "coqueteo_y_deseo",
+    "concept": "reto_c7_37",
+    "text": "Haz una entrada de película romántica como si fueras a reencontrarte con alguien que deseas."
+  },
+  {
+    "id": "c7_38",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "coqueteo_y_deseo",
+    "concept": "reto_c7_38",
+    "text": "Cuenta un detalle no físico que haya hecho crecer tu deseo por alguien."
+  },
+  {
+    "id": "c7_39",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "coqueteo_y_deseo",
+    "concept": "reto_c7_39",
+    "text": "Improvisa un cumplido atrevido sobre ti mismo, sin compararte con otra persona."
+  },
+  {
+    "id": "c7_40",
+    "category": 3,
+    "intensity": 1,
+    "status": "active",
+    "theme": "coqueteo_y_deseo",
+    "concept": "reto_c7_40",
+    "text": "Representa con una mirada y una sonrisa cómo coqueteas cuando sabes que la atracción es mutua."
+  },
+  {
+    "id": "c7_41",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "d",
+    "concept": "reto_c7_41",
+    "text": "Invita a alguien del grupo a sostener una mirada cómplice durante diez segundos."
+  },
+  {
+    "id": "c7_42",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "e",
+    "concept": "reto_c7_42",
+    "text": "Con alguien del grupo, inventen una señal discreta para decir «me gustas»."
+  },
+  {
+    "id": "c7_43",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "s",
+    "concept": "reto_c7_43",
+    "text": "Invita a alguien del grupo a un beso breve en la mejilla; acepta con naturalidad cualquier respuesta."
+  },
+  {
+    "id": "c7_44",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_deseo",
+    "concept": "reto_c7_44",
+    "text": "Redacta en voz alta un mensaje coqueto para una pareja imaginaria. No tienes que enviarlo a nadie."
+  },
+  {
+    "id": "c7_45",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_deseo",
+    "concept": "reto_c7_45",
+    "text": "Interpreta un diálogo entre tu yo tímido y tu yo atrevido antes de una primera noche juntos."
+  },
+  {
+    "id": "c7_46",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_deseo",
+    "concept": "reto_c7_46",
+    "text": "Cuenta una situación de coqueteo en la que entendiste demasiado tarde que había química."
+  },
+  {
+    "id": "c7_47",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_deseo",
+    "concept": "reto_c7_47",
+    "text": "Inventa un nombre de película para una de tus experiencias románticas más intensas."
+  },
+  {
+    "id": "c7_48",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_deseo",
+    "concept": "reto_c7_48",
+    "text": "Defiende durante veinte segundos qué hace memorable un buen beso, sin señalar a nadie presente."
+  },
+  {
+    "id": "c7_49",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "coqueteo_y_deseo",
+    "concept": "reto_c7_49",
+    "text": "Describe una cita que termine en intimidad usando solo lugares y ambientes, sin narrar actos sexuales."
+  },
+  {
+    "id": "c7_50",
+    "category": 3,
+    "intensity": 2,
+    "status": "active",
+    "theme": "e",
+    "concept": "reto_c7_50",
+    "text": "Improvisa con alguien una conversación después de un beso inesperado."
+  },
+  {
+    "id": "c7_51",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "o",
+    "concept": "reto_c7_51",
+    "text": "¿Qué fantasía sexual te excita más, aunque no tengas intención de cumplirla?"
+  },
+  {
+    "id": "c7_52",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_deseo",
+    "concept": "reto_c7_52",
+    "text": "Inventa un nombre y un eslogan divertidos para una marca imaginaria de juguetes sexuales."
+  },
+  {
+    "id": "c7_53",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "_",
+    "concept": "reto_c7_53",
+    "text": "¿Qué curiosidad sexual te gustaría conversar con tu pareja?"
+  },
+  {
+    "id": "c7_54",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_deseo",
+    "concept": "reto_c7_54",
+    "text": "Di una expectativa poco realista sobre el sexo que mandarías al museo y explica por qué."
+  },
+  {
+    "id": "c7_55",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "y",
+    "concept": "reto_c7_55",
+    "text": "Inventa un personaje para un juego de roles sexual y su frase de entrada."
+  },
+  {
+    "id": "c7_56",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_deseo",
+    "concept": "reto_c7_56",
+    "text": "Haz una reseña humorística de un «kit para una noche íntima» usando tres objetos imaginarios."
+  },
+  {
+    "id": "c7_57",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_deseo",
+    "concept": "reto_c7_57",
+    "text": "Cuenta cómo te gustaría que una pareja te dijera que tiene deseo por ti en un día corriente."
+  },
+  {
+    "id": "c7_58",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_deseo",
+    "concept": "reto_c7_58",
+    "text": "Describe una escena de seducción de una película como si fueras crítico de cine, sin representar actos sexuales."
+  },
+  {
+    "id": "c7_59",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "coqueteo_y_deseo",
+    "concept": "reto_c7_59",
+    "text": "Inventa tres títulos para capítulos de una guía de conversación sobre deseos y límites sexuales."
+  },
+  {
+    "id": "c7_60",
+    "category": 3,
+    "intensity": 3,
+    "status": "active",
+    "theme": "_",
+    "concept": "reto_c7_60",
+    "text": "¿Qué fantasía sexual te cuesta más admitir en voz alta?"
+  }
+]
